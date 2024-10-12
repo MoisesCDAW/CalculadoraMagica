@@ -1,4 +1,4 @@
-Prácticas incluídas
+Prácticas incluidas
 1. Atributo "action" de la etiqueta <form> HTML
 2. Envío de datos por "post" a PHP
 3. Mantener "checked" de <input> HTML tipo radio después del envío
